@@ -1,4 +1,4 @@
-import { IoMail } from "react-icons/io5";
+import { RiMailFill } from "react-icons/ri";
 import { FaPhoneAlt } from "react-icons/fa";
 import { ImLocation2 } from "react-icons/im";
 import { FaFacebookF, FaTwitter, FaLinkedinIn, FaYoutube, FaInstagram, FaDiscord } from "react-icons/fa";
@@ -95,7 +95,7 @@ const Footer = () => {
                             <div className="space-y-3 text-purple-200">
                                 <div className="flex items-center gap-3">
                                     <span className="text-black text-[20px]">
-                                        <IoMail />
+                                        <RiMailFill />
                                     </span>
                                     <span>hello@codewithmamudul.com</span>
                                 </div>
